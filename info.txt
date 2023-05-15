@@ -1,5 +1,0 @@
-HTML
-CSS
-JavaScript
-JavaScript first task (TODO list)
-JavaScript second task (Movie Application)
